@@ -68,41 +68,10 @@ Screening mammography is the type of mammogram that checks you when you have no 
 
 Now while its difficult to figure out for physicians  by seeing only images of x-ray that weather the tumor is toxic or not training a machine learning model according to the identification of tumour can be of great help.
 
-# Project Description
-
-The Project is Inspired by the Original Publication of...
-
-1)Doç. Dr. Ahmet MERT
-Mühendislik ve Doğa Bilimleri Fakültesi > Mekatronik Mühendisliği Bölümü
-
-2)Dr. Erdem Bilgili
-Piri Reis University
-
-3)Dr. Aydin Akan
-Izmir Katip Celebi University, Izmir, Turkey
-
-The Projects Features Detection of Breast Cancer Using Machine Learning.
-It has been tested that while there exists several machine learning models,Support Vector Machine or SVM in short is reported to have highest accuracy of (approximately 97%) in detecting breast cancer.
-
-The dataset used in this project is from Breast Cancer Wisconsin (Diagnostic) Data Set, however it can be directly accessed from Scikit learn library's collection of datasets as... 
-
-sklearn.datasets.load_breast_cancer
-
-...aslo csv file of data has been externally loaded in the repo :)
 
 # RESULTS 
 An accuracy of 96% was achieved by using SVM model and after normalization technique after optimisation of C and Gamma parameters it was increased to a value of a 97%.
 
-# How to access this project.
 
-Fork the Repository and clone it in ur PC , voila its urs now use it your own way i hope u will do even cooler things ;)
 
-# Final Note 
 
-To conclude i would like to say that Machine Learning has inspired me for doing great things by learning about great things this project is one of my starters project in this domain and with it iam able to experience not only life of an Enginner but a Physican as well. Doing this project was a pleasure for me and finding out about Death rate due to Breast Cancer really painful , a lot of information i gathered which i could have never known about and loads of learning happened in between so if you are doing this Project i really hope you too will enjoy playing with the dataset ,rejoice your imagination of "Whatif this Could Happen" and unleash the creativity and potential that resides within you.
-
-Finally thanks for having me with you for quiet a lot of your precious time hope to see you next with real goods stuffs ahead , feel free to connect with me I WON'T BITE and would love collaborating with you,you can find my contact information in my Github Profile only.
-
-Also if you enjoyed this and you are not a sadist then dont forget to leave a star, you know those star and Green square really satisfy me :)
-
-Until we Meet Next HAPPY LEARNING ❤️.
